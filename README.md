@@ -18,9 +18,7 @@ I'm a versatile tech professional with a passion for solving problems through da
 - IT Skills: System diagnostics, software installation, network configuration, user support
 
 ## 📈 Projects
-- Buying Behaviour of Nigerians: Analyzed consumer trends across platforms, payment methods, and product categories.
-
-- Housing Price Analysis: Explored property value drivers using statistical visualizations and feature correlations.
+- [Buying Behaviour of Nigerians](https://github.com/IsmailO-Portfolio/Buying-Behavior-Of-Nigerians)
 
 ## 🌱 Currently Learning
 - SQL
