@@ -29,4 +29,4 @@ I'm a versatile tech professional with a passion for solving problems through da
 - 📧 Email: ismailogungbayi11@gmail.com
 - 💼 LinkedIn: (...)
 - 🐦 Twitter: (....)
-- 🧠 GitHub: github.com/yourusername
+- 🧠 [GitHub](https://github.com/IsmailO-Portfolio)
