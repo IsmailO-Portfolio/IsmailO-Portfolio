@@ -19,6 +19,7 @@ I'm a versatile tech professional with a passion for solving problems through da
 
 ## 📈 Projects
 - [Buying Behaviour of Nigerians](https://github.com/IsmailO-Portfolio/Buying-Behavior-Of-Nigerians)
+- [Students Management System (SMS) Database](https://github.com/IsmailO-Portfolio/Students-Management-System-SMS-Database)
 
 ## 🌱 Currently Learning
 - SQL
