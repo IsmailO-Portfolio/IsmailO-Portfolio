@@ -22,6 +22,7 @@ I'm a versatile tech professional with a passion for solving problems through da
 - [Students Management System (SMS) Database](https://github.com/IsmailO-Portfolio/Students-Management-System-SMS-Database)
 - [Forensics Analysis to Aid A Murder Investigation](https://github.com/IsmailO-Portfolio/Forensics-Analysis-To-Aid-A-Murder-Investigation)
 - [Bank Usage Trend Analysis Across Nigerian](https://github.com/IsmailO-Portfolio/Customer-Insights-Turning-Raw-Data-Into-Business-Value)
+- [Netflix Tv Shows and Movies](https://github.com/IsmailO-Portfolio/Netflix-TV--Shows---Movies-Analysis)
 
 ## 🌱 Currently Learning
 - SQL
