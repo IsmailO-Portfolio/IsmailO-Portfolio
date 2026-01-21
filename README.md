@@ -12,9 +12,9 @@ I'm a versatile tech professional with a passion for solving problems through da
 
 
 ## 🧰 Tools & Technologies
-- Languages: Python, SQL (learning)
+- Languages: Python, SQL 
 - Libraries: Pandas, NumPy, Matplotlib
-- Platforms: Anydesk, GitHub, Excel, Windows/Linux
+- Platforms: Anydesk, GitHub, Excel, Windows/Linux, POWER BI
 - IT Skills: System diagnostics, software installation, network configuration, user support
 
 ## 📈 Projects
@@ -25,8 +25,6 @@ I'm a versatile tech professional with a passion for solving problems through da
 - [Netflix Tv Shows and Movies](https://github.com/IsmailO-Portfolio/Netflix-TV--Shows---Movies-Analysis)
 
 ## 🌱 Currently Learning
-- SQL
-- PowerBI
 - Data Analysis with Python
 
 ## 📫 Let’s Connect
